@@ -1,0 +1,7 @@
+[2025-11-05 16:29:12] INFO: Starting backup of testdata
+[2025-11-05 16:29:12] SUCCESS: Backup created: ./backups/backup-2025-11-05-162912.tar.gz
+[2025-11-05 16:29:12] INFO: Checksum file created.
+[2025-11-05 16:29:12] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:29:12] INFO: Applying rotation policy...
+[2025-11-05 16:29:13] INFO: Deleted oldest backup: ./backups/backup-2025-11-05-162530.tar.gz
+[2025-11-05 16:29:13] SUCCESS: Backup process completed successfully!

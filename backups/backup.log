@@ -1,0 +1,110 @@
+[2025-11-05 16:23:32] INFO: Starting backup of testdata
+[2025-11-05 16:23:33] SUCCESS: Backup created: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:23:33] INFO: Checksum file created.
+[2025-11-05 16:23:33] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:23:33] INFO: Applying rotation policy...
+[2025-11-05 16:23:34] INFO: Starting backup of testdata
+[2025-11-05 16:23:35] SUCCESS: Backup created: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:23:35] INFO: Checksum file created.
+[2025-11-05 16:23:35] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:23:35] INFO: Applying rotation policy...
+[2025-11-05 16:23:36] INFO: Starting backup of testdata
+[2025-11-05 16:23:36] SUCCESS: Backup created: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:23:36] INFO: Checksum file created.
+[2025-11-05 16:23:37] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:23:37] INFO: Applying rotation policy...
+[2025-11-05 16:23:38] INFO: Starting backup of testdata
+[2025-11-05 16:23:38] SUCCESS: Backup created: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:23:38] INFO: Checksum file created.
+[2025-11-05 16:23:38] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:23:38] INFO: Applying rotation policy...
+[2025-11-05 16:23:40] INFO: Starting backup of testdata
+[2025-11-05 16:23:40] SUCCESS: Backup created: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:23:40] INFO: Checksum file created.
+[2025-11-05 16:23:40] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:23:40] INFO: Applying rotation policy...
+[2025-11-05 16:23:42] INFO: Starting backup of testdata
+[2025-11-05 16:23:42] SUCCESS: Backup created: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:23:42] INFO: Checksum file created.
+[2025-11-05 16:23:42] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:23:42] INFO: Applying rotation policy...
+[2025-11-05 16:23:44] INFO: Starting backup of testdata
+[2025-11-05 16:23:44] SUCCESS: Backup created: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:23:44] INFO: Checksum file created.
+[2025-11-05 16:23:44] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:23:44] INFO: Applying rotation policy...
+[2025-11-05 16:23:46] INFO: Starting backup of testdata
+[2025-11-05 16:23:46] SUCCESS: Backup created: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:23:46] INFO: Checksum file created.
+[2025-11-05 16:23:46] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:23:46] INFO: Applying rotation policy...
+[2025-11-05 16:23:48] INFO: Starting backup of testdata
+[2025-11-05 16:23:48] SUCCESS: Backup created: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:23:48] INFO: Checksum file created.
+[2025-11-05 16:23:48] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:23:48] INFO: Applying rotation policy...
+[2025-11-05 16:23:50] INFO: Starting backup of testdata
+[2025-11-05 16:23:50] SUCCESS: Backup created: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:23:50] INFO: Checksum file created.
+[2025-11-05 16:23:50] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:23:50] INFO: Applying rotation policy...
+[2025-11-05 16:25:16] INFO: Starting backup of testdata
+[2025-11-05 16:25:16] SUCCESS: Backup created: ./backups/backup-2025-11-05-162516.tar.gz
+[2025-11-05 16:25:17] INFO: Checksum file created.
+[2025-11-05 16:25:17] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:17] INFO: Applying rotation policy...
+[2025-11-05 16:25:25] INFO: Starting backup of testdata
+[2025-11-05 16:25:25] SUCCESS: Backup created: ./backups/backup-2025-11-05-162525.tar.gz
+[2025-11-05 16:25:25] INFO: Checksum file created.
+[2025-11-05 16:25:25] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:25] INFO: Applying rotation policy...
+[2025-11-05 16:25:26] INFO: Starting backup of testdata
+[2025-11-05 16:25:27] SUCCESS: Backup created: ./backups/backup-2025-11-05-162526.tar.gz
+[2025-11-05 16:25:27] INFO: Checksum file created.
+[2025-11-05 16:25:27] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:27] INFO: Applying rotation policy...
+[2025-11-05 16:25:28] INFO: Starting backup of testdata
+[2025-11-05 16:25:29] SUCCESS: Backup created: ./backups/backup-2025-11-05-162528.tar.gz
+[2025-11-05 16:25:29] INFO: Checksum file created.
+[2025-11-05 16:25:29] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:29] INFO: Applying rotation policy...
+[2025-11-05 16:25:30] INFO: Starting backup of testdata
+[2025-11-05 16:25:30] SUCCESS: Backup created: ./backups/backup-2025-11-05-162530.tar.gz
+[2025-11-05 16:25:31] INFO: Checksum file created.
+[2025-11-05 16:25:31] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:31] INFO: Applying rotation policy...
+[2025-11-05 16:25:32] INFO: Starting backup of testdata
+[2025-11-05 16:25:32] SUCCESS: Backup created: ./backups/backup-2025-11-05-162532.tar.gz
+[2025-11-05 16:25:32] INFO: Checksum file created.
+[2025-11-05 16:25:33] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:33] INFO: Applying rotation policy...
+[2025-11-05 16:25:34] INFO: Starting backup of testdata
+[2025-11-05 16:25:34] SUCCESS: Backup created: ./backups/backup-2025-11-05-162534.tar.gz
+[2025-11-05 16:25:34] INFO: Checksum file created.
+[2025-11-05 16:25:35] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:35] INFO: Applying rotation policy...
+[2025-11-05 16:25:35] INFO: Deleted old backup: ./backups/backup-2025-11-05-1623.tar.gz
+[2025-11-05 16:25:36] INFO: Starting backup of testdata
+[2025-11-05 16:25:36] SUCCESS: Backup created: ./backups/backup-2025-11-05-162536.tar.gz
+[2025-11-05 16:25:36] INFO: Checksum file created.
+[2025-11-05 16:25:36] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:37] INFO: Applying rotation policy...
+[2025-11-05 16:25:37] INFO: Deleted old backup: ./backups/backup-2025-11-05-162516.tar.gz
+[2025-11-05 16:25:38] INFO: Starting backup of testdata
+[2025-11-05 16:25:39] SUCCESS: Backup created: ./backups/backup-2025-11-05-162538.tar.gz
+[2025-11-05 16:25:39] INFO: Checksum file created.
+[2025-11-05 16:25:39] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:39] INFO: Applying rotation policy...
+[2025-11-05 16:25:40] INFO: Deleted old backup: ./backups/backup-2025-11-05-162525.tar.gz
+[2025-11-05 16:25:41] INFO: Starting backup of testdata
+[2025-11-05 16:25:42] SUCCESS: Backup created: ./backups/backup-2025-11-05-162541.tar.gz
+[2025-11-05 16:25:42] INFO: Checksum file created.
+[2025-11-05 16:25:42] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:42] INFO: Applying rotation policy...
+[2025-11-05 16:25:43] INFO: Deleted old backup: ./backups/backup-2025-11-05-162526.tar.gz
+[2025-11-05 16:25:44] INFO: Starting backup of testdata
+[2025-11-05 16:25:45] SUCCESS: Backup created: ./backups/backup-2025-11-05-162544.tar.gz
+[2025-11-05 16:25:45] INFO: Checksum file created.
+[2025-11-05 16:25:45] SUCCESS: Checksum verified successfully.
+[2025-11-05 16:25:45] INFO: Applying rotation policy...
+[2025-11-05 16:25:45] INFO: Deleted old backup: ./backups/backup-2025-11-05-162528.tar.gz
